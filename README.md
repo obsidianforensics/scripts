@@ -1,2 +1,2 @@
-# mobile-app-forensics
-Scripts for analyzing various applications from mobile devices
+# dfir.blog Scripts
+Small scripts and POCs related to digital forensics
